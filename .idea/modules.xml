@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/olzindel-musics-frontend.iml" filepath="$PROJECT_DIR$/.idea/olzindel-musics-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../olzindel_musics_backend/.idea/olzindel_musics_backend.iml" filepath="$PROJECT_DIR$/../olzindel_musics_backend/.idea/olzindel_musics_backend.iml" />
     </modules>
   </component>
 </project>

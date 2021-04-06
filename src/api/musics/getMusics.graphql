@@ -1,0 +1,8 @@
+query GetMusics {
+    musics {
+        id
+        title
+        description
+        linkToFile
+    }
+}
